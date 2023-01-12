@@ -5,7 +5,7 @@ import 'package:flutter/rendering.dart';
 import 'package:get/get.dart';
 import 'package:hotelszone_flutter/MainScreen.dart';
 import 'package:hotelszone_flutter/conf/app_config.dart';
-
+//
 class BookingConfirmationScreen extends StatelessWidget {
   String cityName = "Paris";
   String hotelName = "Radisson Blue";

@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'component/ComponentItem.dart';
 import 'component/HotelCard.dart';
 import 'conf/app_config.dart';
-
+//
 class MapScreen extends StatelessWidget {
   const MapScreen({Key? key}) : super(key: key);
 
